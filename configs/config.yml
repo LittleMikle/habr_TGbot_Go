@@ -1,0 +1,5 @@
+port: "8080"
+
+
+telegramBotToken : "5337650226:AAHqXh4fza4obGeJasQAhy5g1KzSeDJ5sio"
+webhookURL : "https://3b76-2a00-1370-8190-3676-df7a-a9d2-cba0-31d0.eu.ngrok.io"
